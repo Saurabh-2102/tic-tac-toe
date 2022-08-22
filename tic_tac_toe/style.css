@@ -1,0 +1,10 @@
+.innerBox{
+    border: 2px solid black;
+    width: 60px;
+    height: 60px;
+}
+#box{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
